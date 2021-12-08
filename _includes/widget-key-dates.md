@@ -4,10 +4,9 @@
 February 24th, 2022
 
 **Notifications sent**<br>
-TODO (_includes/widget-key-dates.md)
+TBD
 
 **Camera-ready submission deadline**<br>
-TODO (_includes/widget-key-dates.md)
-
+TBD
 **Workshop date**<br>
-TODO (_includes/widget-key-dates.md)
+TBD
