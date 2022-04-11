@@ -1,7 +1,57 @@
-- title: 'Mental Buddy: Expanding Access to Mental Healthcare Through Conversational Agents'
-  authors: Luke Haliburton, Mari Kruse, Christopher Voit and Albrecht Schmidt
-  pdf: pdfs/haliburton_CHI__22__CUI_Workshop.pdf
+- theme: 'Health & Vulnerability'
+  papers:
+    - title: 'Mental Buddy: Expanding Access to Mental Healthcare Through Conversational Agents'
+      authors: Luke Haliburton, Mari Kruse, Christopher Voit, and Albrecht Schmidt
+      pdf: pdfs/haliburton_CHI__22__CUI_Workshop.pdf
   
-- title: 'Becoming Reliable AI Agent for COVID-19'
-  authors: Hyunhoon Jung
-  pdf: pdfs/jung_hyunhoon_cui_chi2022_workshop.pdf
+    - title: 'Becoming Reliable AI Agent for COVID-19'
+      authors: Hyunhoon Jung
+      pdf: pdfs/jung_hyunhoon_cui_chi2022_workshop.pdf
+      
+    - title: 'Evaluating Privacy and Security Vulnerabilities of Healthcare Chatbots'
+      authors: Aishwarya Surani and Sanchari Das
+      pdf: pdfs/das_Healthcare_Chatbot_Privacy_and_Security.pdf
+  
+    - title: 'Allegra, How Do We Prevent Ageism in CUIs?'
+      authors: Jaisie Sin
+      pdf: pdfs/sin_CUI_CHI_2022-Ageism.pdf
+- theme: 'Applied Ethics & Measurements'
+  papers:
+    - title: 'Rules of Engagement: Levelling up to Combat Unethical CUI Design'
+      authors: Thomas Mildner, Gian-Luca Savino, and Philip Doyle
+      pdf: pdfs/mildner_Rules_of_Engagement__Levelling_up_to_Combat_Unethical_CUI_Design.pdf
+  
+    - title: 'Ethics Check for Conversational AIs'
+      authors: Sophie Hundertmark and Edy Portmann
+      pdf: pdfs/Hundertmark-Portmann_new.pdf
+      
+    - title: 'The Ethics of Chatbots in Public Sector Service Provision'
+      authors: Asbjørn Følstad and Anders Mærøe
+      pdf: pdfs/folstad_ethics_chatbots_public_sector.pdf
+- theme: 'Identity'
+  papers:
+    - title: 'Gender Choices of Conversational Agent: How Today’s Practice Can Shape Tomorrow’s Values'
+      authors: Ji-Youn Jung, Dave Murray-Rust, Ujwal Gadiraju, and Alessandro Bozzon 
+      pdf: pdfs/Jung_jiyoung_CUI2022_Gender.pdf
+  
+    - title: 'Talking Like Others: Identity and Language in Conversational User Interfaces'
+      authors: Stefanie Carnell
+      pdf: pdfs/carnell_ethics_of_cui_2022-4.pdf
+      
+    - title: 'Design for the User You Want, Not the User You Have?'
+      authors: Anna-Maria Meck, Justin Edwards, Diego Garaialde, Marion Bartl, Philip Doyle, and Leigh Clark
+      pdf: pdfs/meck_Bias_Workshop_Paper.pdf
+- theme: 'Voice & Ethics'
+  papers:
+    - title: 'Ethical Self-Disclosing Voice User Interfaces for Delivery of News'
+      authors: Shruti Rao, Valeria Resendez, Abdallah El Ali, and Pablo Cesar 
+      pdf: pdfs/rao_ethical_self_disclosing_VUIs_for_delivery_of_news.pdf
+  
+    - title: 'Consent on the Fly: Developing Ethical Verbal Consent for Voice Assistants'
+      authors: seymour_voice-based-consent
+      pdf: pdfs/carnell_ethics_of_cui_2022-4.pdf
+      
+    - title: 'Just Like a Human? The Consequences of Human-like Voice User Interfaces'
+      authors: Suzanne Tolmeijer, Naim Zierau, Andreas Janson, Jan Marco Leimeister, and Abraham Bernstein
+      pdf: pdfs/Tolmeijer_2022_CUI_CHI.pdf  
+      
