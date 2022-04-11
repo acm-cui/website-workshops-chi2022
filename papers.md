@@ -3,7 +3,7 @@ layout: page
 title: Accepted position papers
 
 nav_text: Accepted Papers
-nav_position: 3
+nav_position: 2
 ---
 
 
