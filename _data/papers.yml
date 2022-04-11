@@ -1,10 +1,10 @@
-- title: 'Let’s talk about it: Spoken conversational search with a robot for children'
-  authors: Thomas Beelen, Khiet P. Truong, Ella Velner, Roeland Ordelman, Vanessa Evers, and Theo Huibers
-  pdf: pdfs/1-Beelen.pdf
+- title: 'Mental Buddy: Expanding Access to Mental Healthcare Through Conversational Agents'
+  authors: Luke Haliburton, Mari Kruse, Christopher Voit and Albrecht Schmidt
+  pdf: _site/pdfs/haliburton_CHI__22__CUI_Workshop.pdf
   
-- title: 'Using Conversational Artificial Intelligence to Support Children’s Search in the Classroom'
-  authors: Garrett Allen, Jie Yang, Maria Soledad Pera, and Ujwal Gadiraju
-  pdf: pdfs/2-Allen.pdf
+- title: 'Becoming Reliable AI Agent for COVID-19'
+  authors: Hyunhoon Jung
+  pdf: _site/pdfs/jung_hyunhoon_cui_chi2022_workshop.pdf
 
 - title: 'Who Needs a Therapist? Teens’ Reactions to the Conversational Wellbeing Agent'
   authors: Irene Lopatovska 
