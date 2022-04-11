@@ -7,7 +7,7 @@ nav_position: 3
 ---
 
 
-The following papers were accepted for inclusion in the workshop: 
+The following papers were accepted for inclusion in the workshop (test): 
 
 <ul>
 {% for paper in site.data.papers %}
