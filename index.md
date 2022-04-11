@@ -19,6 +19,6 @@ Our workshop on ethics is timely for CUI research in the field of HCI. It will b
 
 * **Looking forward:** Explore in what ways information disclosure between CUIs and humans should follow transparent communication methods, while being alert to vulnerable and under-served populations that may, e.g., over-disclose personal information or misunderstand CUIs' transparency cues. 
 
-* **Community building:** Enlarges our community by consulting philosophers, designers, and engineers to illuminate the next steps on ethics research of CUIs.
+* **Community building:** Enlarge our community by consulting philosophers, designers, and engineers to illuminate the next steps on ethics research of CUIs.
 
 Please see our [Call for Papers](https://www.conversationaluserinterfaces.org/workshops/CHI2022/call-for-papers.html) page for details about submitting to the workshop.
