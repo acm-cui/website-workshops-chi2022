@@ -1,4 +1,4 @@
-name: Publish CUI workshop at CHI 2022 website ###### <<<<<<<<<<<<<<<<<< CHANGE TO APPROPRIATE NAME
+name: Publish CUI at CHI 2022 workshop website ###### <<<<<<<<<<<<<<<<<< CHANGE TO APPROPRIATE NAME
 
 on:
   # Runs on pushes and merged pull requests targeting the default branch
